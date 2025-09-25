@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7IRjtlNy)
 # Presentación final del curso de Programación I
 
 Este repositorio tiene como propósito servir de contenedor para los archivos de la presentación final del curso. Se deben guardar todos los archivos utilizados para la presentación (vea las condiciones de entrega más adelante). 
@@ -6,6 +7,10 @@ Este repositorio tiene como propósito servir de contenedor para los archivos de
 *Maestría en Economía y Finanzas Aplicadas*  
 *Programación I*  
 *Fecha: Septiembre de 2025*
+
+## Delimitación del proyecto
+
+El presente proyecto implementa un algoritmo de arithmetic encoding para comprimir posiciones de partidas de ajedrez. Para mejorar la calidad de la compresión, este algoritmo utiliza utiliza una red neuronal predictiva que intenta completar el estado del tablero de ajedrez a partir de información parcial positiva y negativa. Posteriormente, se desarrollaron otros scripts para recorrer un número determinado de partidas de una base de datos, medir la compresión alcanzada y graficar las jugadas realizadas contra la compresión. Como punto de comparación, estos scripts también se pueden ejecutar utilizando un algoritmo de compresión no basado en redes neuronales sino en información estadística.
 
 ## Objetivos
 
